@@ -109,7 +109,7 @@ max_date = df["dteday"].max()
 
 with st.sidebar:
     # add capital bikeshare logo
-    st.image("https://raw.githubusercontent.com/fikrionii/Dicoding-Bike-Sharing/main/image/pngwing.com.png")
+    st.image("https://raw.githubusercontent.com/diantyapitaloka/Bike-Sharing/main/image/pngwing.com.png")
 
     st.sidebar.header("Filter:")
 
@@ -122,14 +122,14 @@ with st.sidebar:
 
 st.sidebar.header("Visit my Profile:")
 
-st.sidebar.markdown("Alfikri Ramadhan")
+st.sidebar.markdown("Diantya Pitaloka")
 
 col1, col2 = st.sidebar.columns(2)
 
 with col1:
     st.markdown("[![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/alfikri-ramadhan/)")
 with col2:
-    st.markdown("[![Github](https://img.icons8.com/glyph-neue/64/FFFFFF/github.png)](https://github.com/fikrionii)")
+    st.markdown("[![Github](https://img.icons8.com/glyph-neue/64/FFFFFF/github.png)](https://github.com/diantyapitaloka)")
 
 # hubungkan filter dengan main_df
 
@@ -205,7 +205,7 @@ fig = px.line(hourly_users_df,
 
 st.plotly_chart(fig, use_container_width=True)
 
-st.caption('Copyright (c), created by Alfikri Ramadhan')
+st.caption('Copyright (c), created by Diantya Pitaloka')
 
 # ----- HIDE STREAMLIT STYLE -----
 hide_st_style = """
