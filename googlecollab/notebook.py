@@ -29,6 +29,7 @@ import pandas as pd
 hour_df = pd.read_csv("hour.csv")
 hour_df.isnull().sum()
 
+
 #Cleaning Data (Dropping mengatasi Missing Value)
 import pandas as pd
 day_df = pd.read_csv("day.csv")
