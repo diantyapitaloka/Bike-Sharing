@@ -1,6 +1,6 @@
 # Bike Sharing Analysis
 
-🚧## Python Language
+## Python Language🚧
 ### Defining Question
 1. How is the trend in the number of bike-sharing rides in recent years?
 2. What is the usage pattern of bike-sharing rides based on time of day?
@@ -17,7 +17,7 @@
 5. Yes, there is a moderate correlation between temperature and the number of bikeshare rides. The number of rides is lowest at colder temperatures, which occur during the winter, and starts to increase as the temperature increases, which happens in the summer. However, there is a "sweet spot" or temperature range when the number of rides is highest, which is between 20°C and 30°C. This temperature range typically occurs during the summer and fall seasons. On days with these temperature conditions, we can expect the number of bikeshare rides to be high.
 6. Yes, the number of rides is significantly higher during clear weather than during more extreme weather conditions.
    
-🚧## Streamlit Dashboard
+## Streamlit Dashboard🚧
 View the dashboard on streamlit could directly on this link: https://bike-sharing-bayvkjyhshu6bsikqpppel.streamlit.ap/ 
 
 The dashboard shows the count of total rides across the year and season. It also shows the difference casual riders and registered riders use of the bikesharing service, based on hour and day of the week.
