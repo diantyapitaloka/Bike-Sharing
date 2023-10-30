@@ -24,6 +24,8 @@ The dashboard shows the count of total rides across the year and season. It also
 
 ![image](https://github.com/diantyapitaloka/Bike-Sharing/assets/147487436/3a8f8cd3-5d49-4aa3-a2b6-8c011dcecc0b)
 
+![image](https://github.com/diantyapitaloka/Bike-Sharing/assets/147487436/c37e20f3-a218-4d93-bb7d-ffc7000c8403)
+
 ![image](https://github.com/diantyapitaloka/Bike-Sharing/assets/147487436/a9922a75-aaa4-4804-9912-423058c261f0)
 
 
