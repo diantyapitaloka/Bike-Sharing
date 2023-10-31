@@ -1,4 +1,4 @@
-# Bike Sharing Analysis🍓🍋🍐
+## Bike Sharing Analysis🍓🍋🍐
 1. Bike sharing systems are new generation of traditional bike rentals where whole process from membership, rental and return 
 back has become automatic. Through these systems, user is able to easily rent a bike from a particular position and return 
 back at another position. Currently, there are about over 500 bike-sharing programs around the world which is composed of 
@@ -50,4 +50,5 @@ extracted and added the corresponding weather and seasonal information. Weather 
 
 ![image](https://github.com/diantyapitaloka/Bike-Sharing/assets/147487436/a9922a75-aaa4-4804-9912-423058c261f0)
 
-
+## License🍓🍋🍐
+- Copyright by Diantya Pitaloka
