@@ -1,4 +1,4 @@
-## BIKE SHARING ANALYSIS🍓🍋🍐
+## 🍓🍋🍐 BIKE SHARING ANALYSIS 🍐🍋🍓
 1. Bike sharing systems are new generation of traditional bike rentals where whole process from membership, rental and return 
 back has become automatic. Through these systems, user is able to easily rent a bike from a particular position and return 
 back at another position. Currently, there are about over 500 bike-sharing programs around the world which is composed of 
@@ -10,12 +10,12 @@ of travel, departure and arrival position is explicitly recorded in these system
 a virtual sensor network that can be used for sensing mobility in the city. Hence, it is expected that most of important
 events in the city could be detected via monitoring these data.
 
-## PYTHON LANGUAGE🍓🍋🍐
+## 🍓🍋🍐 PYTHON LANGUAGE 🍐🍋🍓
 1. A Python library is a collection of related modules. It contains bundles of code that can be used repeatedly in different programs
 2. It makes Python Programming simpler and convenient for the programmer. As we don’t need to write the same code again and again for different programs.
 3. Python libraries play a very vital role in fields of Machine Learning, Data Science, Data Visualization, etc.
 
-## DATASET BIKE SHARING🍓🍋🍐
+## 🍓🍋🍐 DATASET BIKE SHARING 🍐🍋🍓
 1. Bike-sharing rental process is highly correlated to the environmental and seasonal settings. For instance, weather conditions,
 precipitation, day of week, season, hour of the day, etc. can affect the rental behaviors.
 2. The core data set is related to  
@@ -24,7 +24,7 @@ publicly available in http://capitalbikeshare.com/system-data.
 3. We aggregated the data on two hourly and daily basis and then 
 extracted and added the corresponding weather and seasonal information. Weather information are extracted from http://www.freemeteo.com.
 
-## DATASET CHARACTERISTICS🍓🍋🍐
+## 🍓🍋🍐 DATASET CHARACTERISTICS 🍐🍋🍓
 Both hour.csv and day.csv have the following fields, except hr which is not available in day.csv
 	
 	- instant: record index
@@ -49,7 +49,7 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 	- registered: count of registered users
 	- cnt: count of total rental bikes including both casual and registered
    
-## ASSOCIATED TASK🍓🍋🍐
+## 🍓🍋🍐 ASSOCIATED TASK 🍐🍋🍓
 1. Regression:
 - Predication of bike rental count hourly or daily based on the environmental and seasonal settings.
 	
@@ -58,7 +58,7 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 - For instance, query like "2012-10-30 washington d.c." in Google returns related results to Hurricane Sandy. Some of the important events are identified in.
 - Therefore the data can be used for validation of anomaly or event detection algorithms as well.
 
-## DEFINING QUESTION🍓🍋🍐
+## 🍓🍋🍐 DEFINING QUESTION 🍐🍋🍓
 1. How is the trend in the number of bike-sharing rides in recent years?
 2. What is the usage pattern of bike-sharing rides based on time of day?
 3. What season has the highest bike-sharing rides?
@@ -66,7 +66,7 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 5. Are there any correlations between temperatures that indicate conditions when bike-sharing rides are high?
 6. Does weather affect bikeshare usage?
 
-## FINDING INSIGHT🍓🍋🍐
+## 🍓🍋🍐 FINDING INSIGHT 🍐🍋🍓
 1. The number of bikeshare rides in 2012 was higher than in 2011. Both years showed the same trend and seasonality, with the number of rides increasing in the middle of the year and decreasing at the beginning and end of the year.
 2. For registered users, the number of rides peaked at 8:00 AM and 5:00 PM, suggesting that they may have used the bikes to commute to work. For casual users, the number of rides started to increase during the day and decreased during the night.
 3. Bikeshare rides were highest during the summer season and lowest during the winter season.
@@ -74,7 +74,7 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 5. Yes, there is a moderate correlation between temperature and the number of bikeshare rides. The number of rides is lowest at colder temperatures, which occur during the winter, and starts to increase as the temperature increases, which happens in the summer. However, there is a "sweet spot" or temperature range when the number of rides is highest, which is between 20°C and 30°C. This temperature range typically occurs during the summer and fall seasons. On days with these temperature conditions, we can expect the number of bikeshare rides to be high.
 6. Yes, the number of rides is significantly higher during clear weather than during more extreme weather conditions.
    
-## STREAMLIT DASHBOARD🍓🍋🍐
+## 🍓🍋🍐 STREAMLIT DASHBOARD 🍐🍋🍓
 1. View the dashboard on streamlit could directly through on this link: https://bike-sharing-bayvkjyhshu6bsikqpppel.streamlit.ap/ 
 2. The dashboard shows the count of total rides across the year and season. It also shows the difference casual riders and registered riders use of the bikesharing service, based on hour and day of the week.
 
@@ -84,5 +84,5 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 
 ![image](https://github.com/diantyapitaloka/Bike-Sharing/assets/147487436/a9922a75-aaa4-4804-9912-423058c261f0)
 
-## LICENSE🍓🍋🍐
+## 🍓🍋🍐 LICENSE 🍐🍋🍓
 - Copyright by Diantya Pitaloka
