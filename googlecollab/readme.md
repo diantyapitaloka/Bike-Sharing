@@ -12,25 +12,25 @@
 ## MENYIAPKAN SEMUA LIBLARY YANG DIBUTUHKAN
 - import pandas as pd
 - import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import plotly.express as px
+- import matplotlib.pyplot as plt
+- import seaborn as sns
+- import plotly.express as px
 
 
-## DATA WRAGLING 
+## DATA WRAGLING
+- Tahap data wrangling, dimulai dengan proses pengumpulan data. Pada proses ini kita akan mengumpulkan semua data yang dibutuhkan untuk menjawab semua pertanyaan atau masalah bisnis yang ingin kita hadapi.
 # Gathering Data (Load Dataset)
-import pandas as pd
-from google.colab import files
-import io
+- import pandas as pd
+- from google.colab import files
+- import io
 
 # Assessing Data (Missing Value)
-import pandas as pd
-day_df = pd.read_csv("day.csv")
-day_df.isnull().sum()
-
-import pandas as pd
-hour_df = pd.read_csv("hour.csv")
-hour_df.isnull().sum()
+- import pandas as pd
+- day_df = pd.read_csv("day.csv")
+- day_df.isnull().sum()
+- import pandas as pd
+- hour_df = pd.read_csv("hour.csv")
+- hour_df.isnull().sum()
 ![image](https://github.com/diantyapitaloka/Bike-Sharing/assets/147487436/b45f87cf-84b7-4623-8381-a7432e78b6bf)
 
 
