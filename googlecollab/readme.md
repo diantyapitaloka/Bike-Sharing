@@ -1,12 +1,12 @@
 ## PROYEK ANALISIS DATA
-1. Nama: Diantya Pitaloka
-2. Email: diantyantyaa@gmail.com
-3. Id Dicoding: diantyap
+- Nama: Diantya Pitaloka
+- Email: diantyantyaa@gmail.com
+- Id Dicoding: diantyap
 
 
 ## Menentukan Pertanyaan Bisnis
-1. Hari apa yang paling banyak bekerja sepanjang musim?
-2. Berapa kecepatan angin tertinggi sepanjang musim?
+- Hari apa yang paling banyak bekerja sepanjang musim?
+- Berapa kecepatan angin tertinggi sepanjang musim?
 
 
 ## MENYIAPKAN SEMUA LIBLARY YANG DIBUTUHKAN
@@ -35,29 +35,27 @@
 
 
 # Cleaning Data (Dropping mengatasi Missing Value)
-import pandas as pd
-day_df = pd.read_csv("day.csv")
-day_df.dropna(axis=0, inplace=True)
-
-import pandas as pd
-hour_df = pd.read_csv("hour.csv")
-hour_df.dropna(axis=0, inplace=True)
+- import pandas as pd
+- day_df = pd.read_csv("day.csv")
+- day_df.dropna(axis=0, inplace=True)
+- import pandas as pd
+- hour_df = pd.read_csv("hour.csv")
+- hour_df.dropna(axis=0, inplace=True)
 
 
 ## EXPLORATORY DATA ANALYSIS (EDA)
 # how to read data in google sheet
-sheet_url = 'https://docs.google.com/spreadsheets/d/1_jEMQLR8CH_3ccQDPls0TuUOmX9I7BjWyp3EvxD5O90/edit#gid=251343836'
-sheet_url_trf = sheet_url.replace('/edit#gid=','/export?format=csv&gid=')
-print(sheet_url_trf)
-
-df = pd.read_csv(sheet_url_trf)
-df.head()
+- sheet_url = 'https://docs.google.com/spreadsheets/d/1_jEMQLR8CH_3ccQDPls0TuUOmX9I7BjWyp3EvxD5O90/edit#gid=251343836'
+- sheet_url_trf = sheet_url.replace('/edit#gid=','/export?format=csv&gid=')
+- print(sheet_url_trf)
+- df = pd.read_csv(sheet_url_trf)
+- df.head()
 ![image](https://github.com/diantyapitaloka/Bike-Sharing/assets/147487436/459021e2-2339-4722-bd50-60a0dfb3fd6f)
 
-df.info()
+- df.info()
 ![image](https://github.com/diantyapitaloka/Bike-Sharing/assets/147487436/ea7104b8-3dbf-4c12-90e3-b5c6806be46f)
 
-df.columns
+- df.columns
 ![image](https://github.com/diantyapitaloka/Bike-Sharing/assets/147487436/142984f0-afef-4069-b21f-2933124a919b)
 
 # change type date
