@@ -1,6 +1,6 @@
 ## PROYEK ANALISIS DATA
 1. Nama: Diantya Pitaloka
-Email: diantyantyaa@gmail.com
+2. Email: diantyantyaa@gmail.com
 Id Dicoding: diantyap
 
 
