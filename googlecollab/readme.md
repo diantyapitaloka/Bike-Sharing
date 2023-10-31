@@ -1,17 +1,17 @@
 ## PROYEK ANALISIS DATA
 1. Nama: Diantya Pitaloka
 2. Email: diantyantyaa@gmail.com
-Id Dicoding: diantyap
+3. Id Dicoding: diantyap
 
 
 ## Menentukan Pertanyaan Bisnis
-Hari apa yang paling banyak bekerja sepanjang musim?
-Berapa kecepatan angin tertinggi sepanjang musim?
+1. Hari apa yang paling banyak bekerja sepanjang musim?
+2. Berapa kecepatan angin tertinggi sepanjang musim?
 
 
 ## MENYIAPKAN SEMUA LIBLARY YANG DIBUTUHKAN
-import pandas as pd
-import numpy as np
+- import pandas as pd
+- import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
