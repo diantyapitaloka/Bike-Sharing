@@ -63,7 +63,7 @@
 ![image](https://github.com/diantyapitaloka/Bike-Sharing/assets/147487436/459021e2-2339-4722-bd50-60a0dfb3fd6f)
 
 - df.info()
-![image](https://github.com/diantyapitaloka/Bike-Sharing/assets/147487436/ea7104b8-3dbf-4c12-90e3-b5c6806be46f)
+![image](https://github.com/diantyapitaloka/Bike-Sharing/assets/147487436/b526b84c-996f-4e4b-9c2c-6c7c86deff22)
 
 - df.columns
 ![image](https://github.com/diantyapitaloka/Bike-Sharing/assets/147487436/142984f0-afef-4069-b21f-2933124a919b)
