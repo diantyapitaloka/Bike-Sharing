@@ -1,15 +1,15 @@
-# DATA ANALYSIS PROJECT
+# DATA ANALYSIS PROJECT🍋
 - Nama: Diantya Pitaloka
 - Email: diantyantyaa@gmail.com
 - Id Dicoding: diantyap
 
 
-# DETERMINE BUSINESS QUESTIONS
+# DETERMINE BUSINESS QUESTIONS🍋
 - What is the most working day of the season?
 - What is the highest wind speed throughout the season?
 
 
-# PREPARE ALL NEEDED LIBRARY
+# PREPARE ALL NEEDED LIBRARY🍋
 - Normally, a library is a collection of books or is a room or place where many books are stored to be used later. Similarly, in the programming world, a library is a collection of precompiled codes that can be used later on in a program for some specific well-defined operations. Other than pre-compiled codes, a library may contain documentation, configuration data, message templates, classes, and values, etc.
 - import pandas as pd
 - import numpy as np
@@ -18,7 +18,7 @@
 - import plotly.express as px
 
 
-# DATA WRAGLING
+# DATA WRAGLING🍋
 - Data wrangling stage, starting with the data collection process. In this process we will collect all the data needed to answer all the questions or business problems we want to face.
 ## Gathering Data (Load Dataset)
 - import pandas as pd
@@ -44,7 +44,7 @@
 - hour_df.dropna(axis=0, inplace=True)
 
 
-# EXPLORATORY DATA ANALYSIS (EDA)
+# EXPLORATORY DATA ANALYSIS (EDA)🍋
 - From the perspective of data practitioners, the EDA process is one of the most interesting stages in a data analysis project. This process allows data practitioners to explore and experiment with data to look for patterns, gain insight, answer various business challenges, and draw conclusions based on the analysis results.
 - As a prospective future data practitioner, you will definitely enjoy this EDA process. As an illustration, in the next few materials, we will discuss various tools and techniques that can help you carry out the EDA process effectively. However, before discussing all of these things, it would be better if we understood the difference between exploratory analysis and explanatory analysis first.
 - Exploratory analysis and explanatory analysis are two terms often encountered in data analysis projects. Apart from their pronunciation being quite similar, the two terms also represent quite similar processes. This is what makes it difficult for novice data practitioners to differentiate between the two terms.
@@ -82,7 +82,7 @@
 ![image](https://github.com/diantyapitaloka/Bike-Sharing/assets/147487436/fa2cd24b-03b1-4c79-aa30-d22ef0b6254d)
 
 
-# VISUALIZATION & EXPLANATORY ANALYSIS
+# VISUALIZATION & EXPLANATORY ANALYSIS🍋
 - If examined fundamentally, data visualization is the process of transforming data into visual form using various visual elements. The following are some visual elements that are commonly used to create data visualizations.
 - Position: this element will help us represent data points using certain axes (such as the X, Y, and Z axes) as a reference.
 - Size: size (length or width) is a visual element that we generally use to differentiate and compare values from certain categories or data points.
