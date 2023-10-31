@@ -1,4 +1,4 @@
-# DATA ANALYSIS PROJECT🍋
+# 🍊🍋🍐🍓DATA ANALYSIS PROJECT🍓🍐🍋🍊
 - Nama: Diantya Pitaloka
 - Email: diantyantyaa@gmail.com
 - Id Dicoding: diantyap
