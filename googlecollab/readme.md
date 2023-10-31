@@ -124,3 +124,6 @@
 
 - *Conclusion Question 2*
 - The highest windspeed is located in season 1
+
+# LICENSE🍋
+- Copyright by Diantya Pitaloka
