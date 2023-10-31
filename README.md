@@ -50,13 +50,13 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 	- cnt: count of total rental bikes including both casual and registered
    
 ## Associated Task🍓🍋🍐
-1. Regression: 
-		Predication of bike rental count hourly or daily based on the environmental and seasonal settings.
+1. Regression:
+- Predication of bike rental count hourly or daily based on the environmental and seasonal settings.
 	
-2. Event and Anomaly Detection:  
-		Count of rented bikes are also correlated to some events in the town which easily are traceable via search engines.
-		For instance, query like "2012-10-30 washington d.c." in Google returns related results to Hurricane Sandy. Some of the important events are 
-		identified in [1]. Therefore the data can be used for validation of anomaly or event detection algorithms as well.
+2. Event and Anomaly Detection:
+- Count of rented bikes are also correlated to some events in the town which easily are traceable via search engines.
+- For instance, query like "2012-10-30 washington d.c." in Google returns related results to Hurricane Sandy. Some of the important events are identified in.
+- Therefore the data can be used for validation of anomaly or event detection algorithms as well.
 
 ## Defining Question🍓🍋🍐
 1. How is the trend in the number of bike-sharing rides in recent years?
