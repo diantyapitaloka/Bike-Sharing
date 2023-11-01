@@ -13,7 +13,7 @@ st.set_page_config(page_title="Capital Bikeshare: Bike-sharing Dashboard",
                    page_icon="bar_chart:",
                    layout="wide")
 
-# create helper functions
+# create some helper functions
 
 def create_monthly_users_df(df):
     monthly_users_df = df.resample(rule='M', on='dteday').agg({
@@ -99,7 +99,7 @@ def create_hourly_users_df(df):
     
     return hourly_users_df
 
-# make filter components (komponen filter)
+# made filter components 
 
 min_date = df["dteday"].min()
 max_date = df["dteday"].max()
@@ -112,7 +112,7 @@ with st.sidebar:
 
     st.sidebar.header("Filter:")
 
-    # mengambil start_date & end_date dari date_input
+    # input start_date & end_date from date_input
     start_date, end_date = st.date_input(
         label="Date Filter", min_value=min_date,
         max_value=max_date,
@@ -130,14 +130,14 @@ with col1:
 with col2:
     st.markdown("[![Github](https://img.icons8.com/glyph-neue/64/FFFFFF/github.png)](https://github.com/diantyapitaloka)")
 
-# hubungkan filter dengan main_df
+# correlation between filter and main df 
 
 main_df = df[
     (df["dteday"] >= str(start_date)) &
     (df["dteday"] <= str(end_date))
 ]
 
-# assign main_df ke helper functions yang telah dibuat sebelumnya
+# assign main_df to helper functions already created before
 
 monthly_users_df = create_monthly_users_df(main_df)
 weekday_users_df = create_weekday_users_df(main_df)
