@@ -78,14 +78,11 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 1. View the dashboard on streamlit could directly through on this link: https://bike-sharing-bayvkjyhshu6bsikqpppel.streamlit.ap/ 
 2. The dashboard shows the count of total rides across the year and season. It also shows the difference casual riders and registered riders use of the bikesharing service, based on hour and day of the week.
 
-![image](https://github.com/diantyapitaloka/Bike-Sharing/assets/147487436/1688d280-c3b8-437b-ad12-ed2785bbd4cb)
+![image](https://github.com/diantyapitaloka/Bike-Sharing/assets/147487436/69737fdd-3566-4c0a-a0de-51d4a68b0f22)
 
-![image](https://github.com/diantyapitaloka/Bike-Sharing/assets/147487436/7610befe-f11b-46a6-b07a-a51b75ff84a4)
+![image](https://github.com/diantyapitaloka/Bike-Sharing/assets/147487436/37a1b51d-2897-495c-8d1c-6ed0e1d8eba9)
 
-![image](https://github.com/diantyapitaloka/Bike-Sharing/assets/147487436/dd77f35d-c4e3-44f3-aaa3-6b9d7b0cfe64)
-
-
-
+![image](https://github.com/diantyapitaloka/Bike-Sharing/assets/147487436/ed01a0b4-eef1-4499-963b-5e8e4cbc1883)
 
 ## 🍓🍋🍐 LICENSE 🍐🍋🍓
 - Copyright by Diantya Pitaloka
