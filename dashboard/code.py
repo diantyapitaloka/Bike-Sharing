@@ -125,9 +125,9 @@ st.sidebar.markdown("Diantya Pitaloka")
 
 col1, col2 = st.sidebar.columns(2)
 
-with col1:
-    st.markdown("[![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/alfikri-ramadhan/)")
 with col2:
+    st.markdown("[![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/alfikri-ramadhan/)")
+with col1:
     st.markdown("[![Github](https://img.icons8.com/glyph-neue/64/FFFFFF/github.png)](https://github.com/diantyapitaloka)")
 
 # correlation between filter and main df 
