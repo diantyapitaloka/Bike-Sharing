@@ -4,7 +4,7 @@
 - Id Dicoding: diantyap
 
 
-# 🍊🍋🍐🍓 DETERMINE BUSINESS QUESTIONS 🍓🍐🍋🍊
+# 🍊🍋🍐🍓 DETERMINE BUSINESS QUESTION 🍓🍐🍋🍊
 - What is the most working day of the season?
 - What is the highest wind speed throughout the season?
 
