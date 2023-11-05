@@ -82,7 +82,7 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 run steamlit code.py
 
 ## 🍓🍋🍐 STREAMLIT DASHBOARD 🍐🍋🍓
-1. View the dashboard on streamlit could directly through on this link: https://bike-sharing-bayvkjyhshu6bsikqpppel.streamlit.ap/ 
+1. View the dashboard on streamlit could directly through on this link: [https://bike-sharing-bayvkjyhshu6bsikqpppel.streamlit.ap/ ](https://bike-sharing-bayvkjyhshu6bsikqpppel.streamlit.app/)
 2. The dashboard shows the count of total rides across the year and season. It also shows the difference casual riders and registered riders use of the bikesharing service, based on hour and day of the week.
 
 ![image](https://github.com/diantyapitaloka/Bike-Sharing/assets/147487436/69737fdd-3566-4c0a-a0de-51d4a68b0f22)
