@@ -11,3 +11,8 @@ pip install pandas matplotlib seaborn plotly streamlit jupyter
 ```
 streamlit run code.py
 ```
+
+## Link streamlit
+```
+[https://bike-sharing-bayvkjyhshu6bsikqpppel.streamlit.ap/ ](https://bike-sharing-bayvkjyhshu6bsikqpppel.streamlit.app/)
+```
