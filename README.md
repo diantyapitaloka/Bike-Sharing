@@ -73,7 +73,14 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 4. For registered users, the number of rides was higher during weekdays. This is consistent with the findings in question 2, suggesting that registered users likely used the bikes to commute to work. For casual users, the number of rides was higher on weekends than on weekdays, indicating that they used the bikes for leisure activities on weekends.
 5. Yes, there is a moderate correlation between temperature and the number of bikeshare rides. The number of rides is lowest at colder temperatures, which occur during the winter, and starts to increase as the temperature increases, which happens in the summer. However, there is a "sweet spot" or temperature range when the number of rides is highest, which is between 20°C and 30°C. This temperature range typically occurs during the summer and fall seasons. On days with these temperature conditions, we can expect the number of bikeshare rides to be high.
 6. Yes, the number of rides is significantly higher during clear weather than during more extreme weather conditions.
-   
+
+## 🍓🍋🍐 SET UP STREAMLIT ENVIRONMENT 🍐🍋🍓
+![image](https://github.com/diantyapitaloka/Bike-Sharing/assets/147487436/8c551be9-1716-4652-9b4e-b6d726452080)
+
+
+## 🍓🍋🍐 RUN STREAMLIT APP 🍐🍋🍓
+run steamlit code.py
+
 ## 🍓🍋🍐 STREAMLIT DASHBOARD 🍐🍋🍓
 1. View the dashboard on streamlit could directly through on this link: https://bike-sharing-bayvkjyhshu6bsikqpppel.streamlit.ap/ 
 2. The dashboard shows the count of total rides across the year and season. It also shows the difference casual riders and registered riders use of the bikesharing service, based on hour and day of the week.
