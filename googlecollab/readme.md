@@ -1,5 +1,5 @@
 # 🍊🍋🍐🍓 DATA ANALYSIS PROJECT 🍓🍐🍋🍊
-- Nama: Diantya Pitaloka
+- Name: Diantya Pitaloka
 - Email: diantyantyaa@gmail.com
 - Id Dicoding: diantyap
 
