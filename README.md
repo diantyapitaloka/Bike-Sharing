@@ -81,7 +81,7 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 
 
 ## 🍓🍋🍐 RUN STREAMLIT APP 🍐🍋🍓
-run steamlit code.py
+```run steamlit code.py```
 
 ## 🍓🍋🍐 STREAMLIT DASHBOARD 🍐🍋🍓
 1. View the dashboard on streamlit could directly through on this link: [https://bike-sharing-bayvkjyhshu6bsikqpppel.streamlit.ap/ ](https://bike-sharing-bayvkjyhshu6bsikqpppel.streamlit.app/)
