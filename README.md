@@ -13,7 +13,7 @@ a virtual sensor network that can be used for sensing mobility in the city. Henc
 events in the city could be detected via monitoring these data.
 
 ## 🍓🍋🍐 PYTHON LANGUAGE 🍐🍋🍓
-1. A Python library is a collection of related modules. It contains bundles of code that can be used repeatedly in different programs
+1. A Python library is a collection of related modules. It contains bundles of code that can be used repeatedly in many different programs
 2. It makes Python Programming simpler and convenient for the programmer. As we don’t need to write the same code again and again for different programs.
 3. Python libraries play a very vital role in fields of Machine Learning, Data Science, Data Visualization, etc.
 
