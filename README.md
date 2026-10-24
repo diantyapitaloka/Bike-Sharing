@@ -10,7 +10,7 @@ these systems make them attractive for the research. Opposed to other transport 
 of travel, departure and arrival position is explicitly recorded in these systems.
 4. This feature turns bike sharing system into
 a virtual sensor network that can be used for sensing mobility in the city. Hence, it is expected that most of important
-events in the city could be detected via monitoring these data.
+events in the city could be detected via monitoring these datas.
 
 ## 🍓🍋🍐 PYTHON LANGUAGE 🍐🍋🍓
 1. A Python library is a collection of related modules. It contains bundles of code that can be used repeatedly in many different programs.
