@@ -14,7 +14,7 @@ events in the city could be detected via monitoring these datas.
 
 ## 🍓🍋🍐 PYTHON LANGUAGE 🍐🍋🍓
 1. A Python library is a collection of related modules. It contains bundles of code that can be used repeatedly in many different programs.
-2. It makes Python Programming simpler and convenient for the programmer. As we don’t need to write the same code again and again for different programs.
+2. It makes Python Programming simpler and convenient for the programmer. As we don’t need to write the same code again and again for the different programs.
 3. Python libraries play a very vital role in fields of Machine Learning, Data Science, also Data Visualization.
 
 ## 🍓🍋🍐 DATASET BIKE SHARING 🍐🍋🍓
